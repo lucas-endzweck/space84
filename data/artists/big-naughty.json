@@ -1,0 +1,42 @@
+{
+  "artist_name": "BIG Naughty",
+  "slug": "big-naughty",
+  "metadata": {
+    "country": "GB",
+    "genres": "[Korean, rap, k-rnb, Korean Rap, K-Pop]",
+    "active_years": "1981-06 - present",
+    "band_type": "group",
+    "lastfm_listeners": 157815,
+    "lastfm_playcount": 3990527,
+    "bio": "Seo Dong-hyun (서동현; born June 2, 2003) known as BIG Naughty (빅너티) is a South Korean rapper under H1GHR MUSIC. He gained popularity after joining Show Me The Money 8 and was praised for his clever lyrics and ability to hype up a crowd.",
+    "allmusic_styles": [
+      "Korean Rap",
+      "K-Pop",
+      "Asian Pop",
+      "Asian Rap",
+      "Contemporary R&B"
+    ]
+  },
+  "tracks": [
+    "Vancouver (Vancouver)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Leellamarz",
+    "BE'O",
+    "pH-1",
+    "ASH ISLAND",
+    "Coogie",
+    "CODE KUNST"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Vancouver (Vancouver)",
+      "video_id": "NBxqTvtRd6E"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/NBxqTvtRd6E/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/big%2bnaughty"
+}

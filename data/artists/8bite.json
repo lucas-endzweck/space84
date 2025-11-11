@@ -1,0 +1,35 @@
+{
+  "artist_name": "8bite",
+  "slug": "8bite",
+  "metadata": {
+    "country": "Unknown",
+    "genres": [],
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 5795,
+    "lastfm_playcount": 41531,
+    "bio": "04 大四 旅行者 独自出行/足迹33国 某双一流 非音乐专业兴趣使然 ins:8bitemusic 经纪邮箱：littlechris@soundjungle.cn"
+  },
+  "tracks": [
+    "Saturday."
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Oftn",
+    "颜人中",
+    "LBI利比",
+    "sunkis",
+    "Dept.",
+    "Jake Miller"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Saturday.",
+      "video_id": "czgUSCmJc_0"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/czgUSCmJc_0/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/8bite"
+}

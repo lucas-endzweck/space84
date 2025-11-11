@@ -1,0 +1,33 @@
+{
+  "artist_name": "All Time Low",
+  "slug": "all-time-low",
+  "metadata": {
+    "country": "US",
+    "genres": "[pop punk, powerpop, rock, Emo-Pop, Pop Punk]",
+    "active_years": "2003 - present",
+    "band_type": "group",
+    "lastfm_listeners": 2468544,
+    "lastfm_playcount": 139597296,
+    "bio": "All Time Low are an American pop punk band formed in Baltimore, Maryland, United States in 2003. When Alex Gaskarth (lead vocals, rhythm guitar, keyboards) was in middle school, he was moved from private school to public school, where he met Jack Barakat (lead guitar, backing vocals), and put the band together; later recruiting Rian Dawson (drums, percussion), and Zack Merrick (bass guitar, backing vocals). The band's name came from a line in the New Found Glory song Head On Collision. Early on, All Time Low mostly performed covers of songs by bands like Green Day, blink-182, and New Found Glory. Since their debut, they have released 9 studio albums: The Party Scene (2005), So Wrong, It's Right (2007), Nothing Personal (2009), Dirty Work (2011), Don't Panic (2012), Future Hearts (2015), Last Young Renegade (2017), Wake Up, Sunshine (2020), and Tell Me I'm Alive (2023) as well as two live albums, Straight to DVD (2010), and Straight to DVD II: Past, Present and Future Hearts (2016). They have also released some EPs, most notably, Put Up or Shut Up (2006), and MTV Unplugged (2010).",
+    "allmusic_styles": [
+      "Emo-Pop",
+      "Pop Punk",
+      "Alternative/Indie Rock"
+    ]
+  },
+  "tracks": [
+    "Dear Maria, Count Me In"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Mayday Parade",
+    "State Champs",
+    "The Maine",
+    "Simple Creatures",
+    "We the Kings",
+    "With Confidence"
+  ],
+  "youtube_videos": [],
+  "images": [],
+  "lastfm_url": "https://www.last.fm/music/all%2btime%2blow"
+}

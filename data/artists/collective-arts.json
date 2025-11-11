@@ -1,0 +1,35 @@
+{
+  "artist_name": "Collective Arts",
+  "slug": "collective-arts",
+  "metadata": {
+    "country": "US",
+    "genres": "[Korean]",
+    "active_years": "2000 - present",
+    "band_type": "group",
+    "lastfm_listeners": 6853,
+    "lastfm_playcount": 38319,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Away"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Kim Hyunchang",
+    "Lee Yerin",
+    "deulrejang",
+    "2danji",
+    "Cott (콧)",
+    "GYE0M"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Away",
+      "video_id": "B08pFVyRM38"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/B08pFVyRM38/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/collective%2barts"
+}

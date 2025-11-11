@@ -1,0 +1,41 @@
+{
+  "artist_name": "Muse",
+  "slug": "muse",
+  "metadata": {
+    "country": "GB",
+    "genres": "[alternative rock, rock, Progressive rock, Alternative Pop/Rock, Alternative/Indie Rock]",
+    "active_years": "1994 - present",
+    "band_type": "group",
+    "lastfm_listeners": 6182476,
+    "lastfm_playcount": 552537895,
+    "bio": "Muse is an English rock band from Teignmouth, Devon, formed in 1994. The band consists of Matt Bellamy (lead vocals, guitar, keyboards), Chris Wolstenholme (bass guitar, backing vocals), and Dominic Howard (drums, percussion).\n\nMuse released their debut album, \"Showbiz,\" in 1999, which featured Bellamy's falsetto and a melancholic alternative rock style. Their second album, \"Origin of Symmetry\" (2001), incorporated wider instrumentation and classical influences and contributed to their reputation for energetic live performances. \"Absolution\" (2003) included further classical elements, such as strings on tracks like \"Butterflies and Hurricanes,\" and became the first of seven consecutive UK number-one albums.\n\n\"Black Holes and Revelations\" (2006) incorporated electronic and pop elements, as seen in singles such as \"Supermassive Black Hole,\" and helped the band achieve wider international recognition. \"The Resistance\" (2009) and \"The 2nd Law\" (2012) explored themes of government control and civil unrest, establishing Muse as a major stadium act. Their seventh album, \"Drones\" (2015), which topped the US Billboard 200, was a concept album about drone warfare and marked a return to a harder rock sound. \"Simulation Theory\" (2018) prominently featured synthesizers and drew inspiration from science fiction and the simulation hypothesis. Their ninth album, \"Will of the People\" (2022), combined elements from previous albums and was released in August 2022.\n\nMuse have received multiple awards, including two Grammy Awards, two Brit Awards, five MTV Europe Music Awards, and eight NME Awards. In 2012, they were honored with the Ivor Novello Award for International Achievement by the British Academy of Songwriters, Composers and Authors. As of October 2022, Muse had sold over 30 million albums worldwide.\n\nFull Wikipedia article: https://en.wikipedia.org/wiki/Muse_(band)\n\nStudio albums\nShowbiz (1999)\nOrigin of Symmetry (2001)\nAbsolution (2003)\nBlack Holes and Revelations (2006)\nThe Resistance (2009)\nThe 2nd Law (2012)\nDrones (2015)\nSimulation Theory (2018)\nWill of the People (2022)",
+    "allmusic_styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Post-Grunge",
+      "Neo-Prog"
+    ]
+  },
+  "tracks": [
+    "Time is Running Out"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Royal Blood",
+    "Nothing But Thieves",
+    "Radiohead",
+    "Placebo",
+    "Franz Ferdinand",
+    "Coldplay"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Time is Running Out",
+      "video_id": "8eB2d_saQo4"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/8eB2d_saQo4/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/muse"
+}

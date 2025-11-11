@@ -1,0 +1,28 @@
+{
+  "artist_name": "Terry Kim",
+  "slug": "terry-kim",
+  "metadata": {
+    "country": "GB",
+    "genres": [],
+    "active_years": "1948-04-28 - 2015-03-12",
+    "band_type": "person",
+    "lastfm_listeners": 12,
+    "lastfm_playcount": 21,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "그냥"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "그냥",
+      "video_id": "JYex_V7gzts"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/JYex_V7gzts/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/terry%2bkim"
+}

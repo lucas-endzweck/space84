@@ -1,0 +1,34 @@
+{
+  "artist_name": "Lacuna / 라쿠나",
+  "slug": "lacuna-라쿠나",
+  "metadata": {
+    "country": "IT",
+    "genres": [],
+    "active_years": "1997 - present",
+    "band_type": "group",
+    "lastfm_listeners": 7,
+    "lastfm_playcount": 85,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Summer Cosmos",
+    "Far Away"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "Summer Cosmos",
+      "video_id": "OVt4DGlIBEI"
+    },
+    {
+      "title": "Far Away",
+      "video_id": "G1tzltj-igE"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/OVt4DGlIBEI/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/G1tzltj-igE/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/lacuna%2b%252f%2b%25eb%259d%25bc%25ec%25bf%25a0%25eb%2582%2598"
+}

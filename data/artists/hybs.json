@@ -1,0 +1,35 @@
+{
+  "artist_name": "HYBS",
+  "slug": "hybs",
+  "metadata": {
+    "country": "TH",
+    "genres": "[rnb, synthpop, thai]",
+    "active_years": "2021-10-08 - 2024-01-10",
+    "band_type": "group",
+    "lastfm_listeners": 522035,
+    "lastfm_playcount": 11627792,
+    "bio": "HYBS (aka James Alyn Wee & Karn Kasidej) is a Bangkok-based duo, formed by two long lost friends who haven’t met each other for 8 years. They shared their love in laidback Pop/R&B tunes filled with special memories on their lives, layering with immaculate sound design in pursuit of their own HYBS’ vibes.\n\nHYBS stands for Have You Been Shrimp."
+  },
+  "tracks": [
+    "Let It Rain"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "slchld",
+    "Christian Kuria",
+    "Hojean",
+    "Numcha",
+    "brb.",
+    "James Alyn"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Let It Rain",
+      "video_id": "8R0ZmukJLIQ"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/8R0ZmukJLIQ/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/hybs"
+}

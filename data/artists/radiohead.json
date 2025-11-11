@@ -1,0 +1,42 @@
+{
+  "artist_name": "Radiohead",
+  "slug": "radiohead",
+  "metadata": {
+    "country": "GB",
+    "genres": "[rock, alternative, alternative rock, Alternative Pop/Rock, Alternative/Indie Rock]",
+    "active_years": "1991 - present",
+    "band_type": "group",
+    "lastfm_listeners": 7937435,
+    "lastfm_playcount": 1276525101,
+    "bio": "Radiohead is an English rock band formed in Abingdon, Oxfordshire, in 1985. The band consists of Thom Yorke (vocals, guitar, piano, keyboards); brothers Jonny Greenwood (guitar, keyboards, other instruments) and Colin Greenwood (bass); Ed O'Brien (guitar, backing vocals); and Philip Selway (drums, percussion). Since 1994, they have frequently collaborated with producer Nigel Godrich and cover artist Stanley Donwood. Radiohead are noted for their experimental approach, which has influenced the development of alternative rock.\n\nThe band signed to EMI in 1991 and released their debut album, \"Pablo Honey,\" in 1993. Its lead single, \"Creep,\" became a worldwide hit. Their popularity and critical acclaim increased with \"The Bends\" in 1995. Their third album, \"OK Computer\" (1997), is widely regarded as a landmark album, noted for its complex production and themes of modern alienation. Their fourth album, \"Kid A\" (2000), marked a significant stylistic shift, incorporating elements of electronic music, jazz, classical music and krautrock. Though initially divisive, \"Kid A\" was later recognised as one of the decade’s best albums. \"Amnesiac\" (2001), recorded during the same sessions, followed, and \"Hail to the Thief\" (2003), their final album for EMI, combined rock and electronic music while addressing themes such as the war on terror.\n\nRadiohead self-released their seventh album, \"In Rainbows\" (2007), as a pay-what-you-want download, achieving critical and commercial success. Their eighth album, \"The King of Limbs\" (2011), explored rhythm through extensive looping and sampling. \"A Moon Shaped Pool\" (2016) featured prominent orchestral arrangements by Jonny Greenwood. Several members, including Yorke, Jonny Greenwood, Selway and O'Brien, have released solo albums, and in 2021, Yorke and Jonny Greenwood formed the band the Smile.\n\nBy 2011, Radiohead had sold over 30 million albums worldwide. They have received six Grammy Awards and four Ivor Novello Awards, and hold five Mercury Prize nominations, more than any other act. Seven of their singles have reached the top 10 on the UK singles chart: \"Creep\" (1992), \"Street Spirit (Fade Out)\" (1996), \"Paranoid Android\" (1997), \"Karma Police\" (1997), \"No Surprises\" (1998), \"Pyramid Song\" (2001) and \"There There\" (2003). \"Creep\" and \"Nude\" (2008) also reached the top 40 on the US Billboard Hot 100. Rolling Stone named Radiohead one of the 100 greatest artists of all time and included five of their albums in its \"500 Greatest Albums of All Time\" lists. Radiohead were inducted into the Rock and Roll Hall of Fame in 2019.\n\nStudio albums\nPablo Honey (1993)\nThe Bends (1995)\nOK Computer (1997)\nKid A (2000)\nAmnesiac (2001)\nHail to the Thief (2003)\nIn Rainbows (2007)\nThe King of Limbs (2011)\nA Moon Shaped Pool (2016)",
+    "allmusic_styles": [
+      "Alternative Pop/Rock",
+      "Alternative/Indie Rock",
+      "Experimental Rock",
+      "Britpop",
+      "Indie Electronic"
+    ]
+  },
+  "tracks": [
+    "Creep"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Thom Yorke",
+    "Atoms for Peace",
+    "Jeff Buckley",
+    "The Strokes",
+    "Muse",
+    "Weezer"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Creep",
+      "video_id": "9RfVp-GhKfs"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/9RfVp-GhKfs/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/radiohead"
+}

@@ -1,0 +1,28 @@
+{
+  "artist_name": "trabbey & malloy",
+  "slug": "trabbey-malloy",
+  "metadata": {
+    "country": "US",
+    "genres": [],
+    "active_years": "1927 - present",
+    "band_type": "orchestra",
+    "lastfm_listeners": 1,
+    "lastfm_playcount": 2,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "TIMELESS"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "TIMELESS",
+      "video_id": "YeNkoyLV0CM"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/YeNkoyLV0CM/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/trabbey%2b%2526%2bmalloy"
+}

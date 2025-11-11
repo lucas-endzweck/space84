@@ -1,0 +1,35 @@
+{
+  "artist_name": "thekooksofficial",
+  "slug": "thekooksofficial",
+  "metadata": {
+    "country": "Unknown",
+    "genres": [],
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 472,
+    "lastfm_playcount": 1951,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Naive"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Official Arctic Monkeys",
+    "TheKillersMusic",
+    "florencemachine",
+    "mgmtmusic",
+    "remhq",
+    "Fueled By Ramen"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Naive",
+      "video_id": "mjaDHD1E8Bs"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/mjaDHD1E8Bs/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/thekooksofficial"
+}

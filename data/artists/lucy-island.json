@@ -1,0 +1,46 @@
+{
+  "artist_name": "LUCY ISLAND",
+  "slug": "lucy-island",
+  "metadata": {
+    "country": "DE",
+    "genres": "[Music Comedy, Comedy]",
+    "active_years": "1983 - present",
+    "band_type": "person",
+    "lastfm_listeners": 239,
+    "lastfm_playcount": 2095,
+    "bio": "정보를 찾을 수 없습니다.",
+    "allmusic_styles": [
+      "Music Comedy",
+      "Comedy",
+      "Novelty"
+    ]
+  },
+  "tracks": [
+    "Rolling Rolling",
+    "The knight who can't die and the silk cradle"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "N.Flying (엔플라잉)",
+    "ONF OFFICIAL",
+    "TOMORROW X TOGETHER OFFICIAL",
+    "KBS Kpop",
+    "FNCEnt",
+    "KBS World TV"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Rolling Rolling",
+      "video_id": "aDigLsVgz18"
+    },
+    {
+      "title": "The knight who can't die and the silk cradle",
+      "video_id": "sNYW4GE8jgk"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/aDigLsVgz18/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/sNYW4GE8jgk/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/lucy%2bisland"
+}

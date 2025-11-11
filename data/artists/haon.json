@@ -1,0 +1,42 @@
+{
+  "artist_name": "HAON",
+  "slug": "haon",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Hip-Hop, Korean, rap, Asian Pop, K-Pop]",
+    "active_years": "2000-07-07 - present",
+    "band_type": "person",
+    "lastfm_listeners": 77640,
+    "lastfm_playcount": 1686659,
+    "bio": "Kim Ha-on (Korean: 김하온; born July 7, 2000), known mononymously as HAON (하온), is a South Korean rapper. He was the winner of \"High School Rapper 2\" from where he gained recognition. He’s signed under H1GHER MUSIC. Haon has gained alot of attention from the start by achieving a PAK (Perfect all-kill; music chart achievement in Korea where a song is number one on multiple music charts simultaneously) on Korean charts through his music on HSR2.",
+    "allmusic_styles": [
+      "Asian Pop",
+      "K-Pop",
+      "Korean Rap",
+      "Asian Rap"
+    ]
+  },
+  "tracks": [
+    "Skrr (feat. GISELLE)",
+    "붕붕 Boong-Boong (Feat. Sik-K) (Prod. GroovyRoom)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Sik-K",
+    "Gist",
+    "pH-1",
+    "Coogie",
+    "Leellamarz",
+    "Way Ched"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Skrr (feat. GISELLE)",
+      "video_id": "Yc4gp6oeN7k"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/Yc4gp6oeN7k/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/haon"
+}

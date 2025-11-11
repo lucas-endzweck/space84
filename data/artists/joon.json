@@ -1,0 +1,35 @@
+{
+  "artist_name": "Joon",
+  "slug": "joon",
+  "metadata": {
+    "country": "MT",
+    "genres": "[rock, classic rock, pop]",
+    "active_years": "Unknown",
+    "band_type": "person",
+    "lastfm_listeners": 86038,
+    "lastfm_playcount": 3799128,
+    "bio": "Stephen Carlier, known by his artist name “Joon”  (A.K.A. JoonProd, JoonQT) is a 20 year old Korean-American artist known for creating under the pop, r&b, and anti-pop genres who frequently collaborates with artists like bixby and starfall.\nSoundcloud link: https://soundcloud.com/joonqt"
+  },
+  "tracks": [
+    "by my side (feat. bixby)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "asumuh",
+    "niko rain",
+    "brb.",
+    "EJEAN",
+    "rouri404",
+    "Johnny Stimson"
+  ],
+  "youtube_videos": [
+    {
+      "title": "by my side (feat. bixby)",
+      "video_id": "9-Bg2smOmPk"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/9-Bg2smOmPk/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/joon"
+}

@@ -2,31 +2,28 @@
   "artist_name": "GIRIBOY",
   "slug": "giriboy",
   "metadata": {
-    "country": "South Korea",
-    "real_name": "Hong Si-young (홍시영)",
-    "birth_date": "1991-01-24",
-    "genres": ["Hip-Hop", "K-Hip-Hop", "Rap", "Korean"],
-    "active_years": "2011 - present",
-    "band_type": "person",
-    "label": "Just Music",
-    "collective": "Do'Main",
-    "lastfm_listeners": 130800,
-    "lastfm_playcount": 3600000
+    "country": "Unknown",
+    "genres": "[Korean, Hip-Hop, k-hiphop, Contemporary Rap, Korean Rap]",
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 130778,
+    "lastfm_playcount": 3601605,
+    "bio": "Hong Si-young (Korean: 홍시영; born January 24, 1991), known professionally as Giriboy (기리보이), is a South Korean underground hip-hop musician under the label Just Music. He debuted in November 2011 with single \"You look so good to me (Feat. Swings)\". He is also a part of Do’Main (other members include; Gganmo, Ugly Duck, 긱스, Babo, Zico and Andup).",
+    "allmusic_styles": [
+      "Contemporary Rap",
+      "Korean Rap",
+      "Alternative Rap",
+      "Asian Pop",
+      "Asian Rap"
+    ]
   },
   "tracks": [
-    "DIE DIE (Feat. CHOILB)",
-    "Traffic Control (feat. HEIZE)",
-    "Let's Not Love Each Other",
-    "Sooljalee",
-    "IMJMWDP",
-    "Towkio (도쿄) (Feat. youra)",
+    "Towkio (도쿄) (Feat. youra) (유라)",
     "Take a Walk (산책)",
     "What Should I do (뭐 어떡할까)",
     "Drive mE cRaZy"
   ],
-  "albums": [
-    {"title": "Written on your face (feat. Ugly Duck)", "year": 2025}
-  ],
+  "albums": [],
   "similar_artists": [
     "Kid Milli",
     "pH-1",
@@ -58,6 +55,5 @@
     "https://i.ytimg.com/vi/B3e_S3VK-i0/hqdefault.jpg",
     "https://i.ytimg.com/vi/Vy0IlwV9jeM/hqdefault.jpg"
   ],
-  "spotify_url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq",
-  "lastfm_url": "https://www.last.fm/music/GIRIBOY"
+  "lastfm_url": "https://www.last.fm/music/giriboy"
 }

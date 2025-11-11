@@ -1,0 +1,42 @@
+{
+  "artist_name": "Nerd Connection",
+  "slug": "nerd-connection",
+  "metadata": {
+    "country": "KR",
+    "genres": "[k-indie, rock, Korean, Contemporary Pop/Rock, Alternative R&B]",
+    "active_years": "2018 - present",
+    "band_type": "group",
+    "lastfm_listeners": 42530,
+    "lastfm_playcount": 595471,
+    "bio": "𝗕𝗶𝗼𝗴𝗿𝗮𝗽𝗵𝘆\na-four-man band consists of vocalist Yeongjoo, drummer Yeontae, guitarist Seungwon, and bassist Jaehyun.\n3 engineering student + taekwondo instructor\nThey debuted at 14-08-2018 with their first single 《Hymn of the birds》\nThe band's name came from a site called bandnamemaker, Seungwon send it to the chatroom and that was how it decided.\nIn 2018, they won the Emergenza world band festival and made it to Taubertal festival in Germany.\n𝗠𝗲𝗺𝗯𝗲𝗿𝘀 𝗮𝗻𝗱 𝗣𝗼𝘀𝗶𝘁𝗶𝗼𝗻𝘀:\nSeo Yeongjoo (서영주) -  Vocal and sub guitar\nShin Yeontae (신연태) - Drums\nChoi Seungwon (최승원) - Leader and guitar\nPark Jaehyun (박재현) - Guitar and maknae",
+    "allmusic_styles": [
+      "Contemporary Pop/Rock",
+      "Alternative R&B",
+      "Alternative Rap",
+      "Rap-Rock"
+    ]
+  },
+  "tracks": [
+    "너드커넥션(Nerd Connection) - 조용히 완전히 영원히 (취중 Live)",
+    "‎Good Night Good Dream (좋은 밤 좋은 꿈)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Band Nah",
+    "JANNABI",
+    "데이먼스 이어 Damons year",
+    "Heo Hoy Kyung",
+    "Car, The Garden",
+    "Redoor"
+  ],
+  "youtube_videos": [
+    {
+      "title": "너드커넥션(Nerd Connection) - 조용히 완전히 영원히 (취중 Live)",
+      "video_id": "9gr2kaSBFRM"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/9gr2kaSBFRM/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/nerd%2bconnection"
+}

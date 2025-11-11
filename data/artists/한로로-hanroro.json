@@ -1,0 +1,45 @@
+{
+  "artist_name": "한로로 HANRORO",
+  "slug": "한로로-hanroro",
+  "metadata": {
+    "country": "KR",
+    "genres": [],
+    "active_years": "2000-11-11 - present",
+    "band_type": "person",
+    "lastfm_listeners": 27,
+    "lastfm_playcount": 58,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "사랑하게 될 거야",
+    "자처",
+    "금붕어",
+    "입춘"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "사랑하게 될 거야",
+      "video_id": "Snyan1_jGWc"
+    },
+    {
+      "title": "자처",
+      "video_id": "QRwfXQ7-OR4"
+    },
+    {
+      "title": "금붕어",
+      "video_id": "x3LMXUzDhXg"
+    },
+    {
+      "title": "입춘",
+      "video_id": "I0Hu7PRF4j0"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/Snyan1_jGWc/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/QRwfXQ7-OR4/hqdefault.jpg",
+    "https://i.ytimg.com/vi/x3LMXUzDhXg/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/%25ed%2595%259c%25eb%25a1%259c%25eb%25a1%259c%2bhanroro"
+}

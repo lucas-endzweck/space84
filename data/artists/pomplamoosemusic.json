@@ -1,0 +1,40 @@
+{
+  "artist_name": "PomplamooseMusic",
+  "slug": "pomplamoosemusic",
+  "metadata": {
+    "country": "Unknown",
+    "genres": "[indie, female vocalists, indie pop]",
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 1137,
+    "lastfm_playcount": 5928,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Instant Crush",
+    "Jamiroquai Bee Gees Mashup",
+    "Boyfriend",
+    "Don't Start Now",
+    "Harder, Better, Faster, Stronger",
+    "Something About Us"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Nataly Dawn",
+    "Elise Trouw",
+    "Lake Street Dive",
+    "Theo Katzman",
+    "dodie",
+    "Tessa Violet"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Instant Crush",
+      "video_id": "TY7D3iHrBdU"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/TY7D3iHrBdU/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/pomplamoosemusic"
+}

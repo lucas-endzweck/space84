@@ -1,0 +1,35 @@
+{
+  "artist_name": "Parc Jae Jung",
+  "slug": "parc-jae-jung",
+  "metadata": {
+    "country": "DE",
+    "genres": "[Korean, Ballad, k-pop]",
+    "active_years": "1964-04-12 - present",
+    "band_type": "person",
+    "lastfm_listeners": 14538,
+    "lastfm_playcount": 157425,
+    "bio": "Parc Jae Jung (박재정) is a South Korean singer-songwriter under Romantic Factory. He was the winner of Mnet's Superstar K5. He debuted on July 17, 2014 with the mini album Step 1.\n\nHe is also a member of the project group MSG Wannabe and its unit M.O.M ."
+  },
+  "tracks": [
+    "Let’s Say Goodbye (헤어지자 말해요)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "GyeongseoYeji",
+    "juho",
+    "Lim ChangJung",
+    "Kim Min seok",
+    "onestar",
+    "Lim Jae Beum"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Let’s Say Goodbye (헤어지자 말해요)",
+      "video_id": "5BNXmOlRgzI"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/5BNXmOlRgzI/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/parc%2bjae%2bjung"
+}

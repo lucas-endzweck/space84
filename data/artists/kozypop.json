@@ -1,0 +1,28 @@
+{
+  "artist_name": "KozyPop",
+  "slug": "kozypop",
+  "metadata": {
+    "country": "KR",
+    "genres": "[soul, rnb, Korean]",
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 55070,
+    "lastfm_playcount": 730153,
+    "bio": "‘KozyPop‘ is a portmanteau of ‘cozy’ and ‘K-pop’ and refers to those korean who enjoy music that has a certain mellow atmosphere, rather than music of a specific genre."
+  },
+  "tracks": [
+    "magazine (Song By Popeye, nathania)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "OuiOui",
+    "Ciki",
+    "Chan",
+    "jeebanoff",
+    "twlv",
+    "Hoody"
+  ],
+  "youtube_videos": [],
+  "images": [],
+  "lastfm_url": "https://www.last.fm/music/kozypop"
+}

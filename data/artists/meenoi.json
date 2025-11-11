@@ -1,0 +1,36 @@
+{
+  "artist_name": "MEENOI",
+  "slug": "meenoi",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Korean, rnb, aomg]",
+    "active_years": "1997-04-09 - present",
+    "band_type": "person",
+    "lastfm_listeners": 82304,
+    "lastfm_playcount": 1203973,
+    "bio": "meenoi (미노이; born 9 April, 1997) is a South Korean singer who debuted under Inplanet on 31 July 2019 with the single NDGGA [너답기기안 (너의 답장을 기다리다가 기분이 안좋아졌어)]. She is currently signed to AOMG."
+  },
+  "tracks": [
+    "2+2=4 (Broken)",
+    "busy guy"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Leellamarz",
+    "Moon Sujin",
+    "Coogie",
+    "Way Ched",
+    "BOYCOLD",
+    "pH-1"
+  ],
+  "youtube_videos": [
+    {
+      "title": "2+2=4 (Broken)",
+      "video_id": "0m91AqwCHSg"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/0m91AqwCHSg/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/meenoi"
+}

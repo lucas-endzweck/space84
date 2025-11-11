@@ -1,0 +1,35 @@
+{
+  "artist_name": "Tuesday Beach Club",
+  "slug": "tuesday-beach-club",
+  "metadata": {
+    "country": "Unknown",
+    "genres": "[Korean, k-indie, alt-rock]",
+    "active_years": "Unknown",
+    "band_type": "group",
+    "lastfm_listeners": 15185,
+    "lastfm_playcount": 159785,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "LOBSTER KING"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "jisokuryClub",
+    "Off The Menu",
+    "Monday Off With Bluesy",
+    "Shin In Ryu",
+    "HANRORO",
+    "검정치마"
+  ],
+  "youtube_videos": [
+    {
+      "title": "LOBSTER KING",
+      "video_id": "htwPXYk9OBM"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/htwPXYk9OBM/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/tuesday%2bbeach%2bclub"
+}

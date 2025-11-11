@@ -1,0 +1,35 @@
+{
+  "artist_name": "The Black Skirts",
+  "slug": "the-black-skirts",
+  "metadata": {
+    "country": "GB",
+    "genres": "[Korean, indie, korean indie]",
+    "active_years": "1960 - 1970-04-10",
+    "band_type": "group",
+    "lastfm_listeners": 405621,
+    "lastfm_playcount": 7717705,
+    "bio": "Redirect to http://www.last.fm/music/검정치마 which is the correct page"
+  },
+  "tracks": [
+    "Electra"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "JANNABI",
+    "언니네 이발관",
+    "Car, The Garden",
+    "HYUKOH",
+    "Night Off",
+    "LEEHEESANG"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Electra",
+      "video_id": "ooZA5ONfUJE"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/ooZA5ONfUJE/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/the%2bblack%2bskirts"
+}

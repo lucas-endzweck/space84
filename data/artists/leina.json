@@ -1,0 +1,35 @@
+{
+  "artist_name": "Leina",
+  "slug": "leina",
+  "metadata": {
+    "country": "JP",
+    "genres": "[japanese, female vocalists, anison]",
+    "active_years": "Unknown",
+    "band_type": "person",
+    "lastfm_listeners": 11782,
+    "lastfm_playcount": 151137,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "utatane"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "tuki.",
+    "Ryokuoushoku Shakai",
+    "Masaki Suda",
+    "eill",
+    "Asmi",
+    "乃紫"
+  ],
+  "youtube_videos": [
+    {
+      "title": "utatane",
+      "video_id": "qSZWxStrC7k"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/qSZWxStrC7k/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/leina"
+}

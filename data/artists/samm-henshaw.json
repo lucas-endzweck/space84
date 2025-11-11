@@ -1,0 +1,43 @@
+{
+  "artist_name": "Samm Henshaw",
+  "slug": "samm-henshaw",
+  "metadata": {
+    "country": "GB",
+    "genres": "[pop, soul, rnb, Alternative R&B, Retro-Soul]",
+    "active_years": "1994-02-22 - present",
+    "band_type": "person",
+    "lastfm_listeners": 258002,
+    "lastfm_playcount": 2828040,
+    "bio": "Iniabasi Samuel Henshaw, professionally known as Samm Henshaw (born 22 February 1994), is an english singer, songwriter and record producer, signed to Columbia Records. Henshaw has garnered mainstream radio support from BBC Radio 1 and was handpicked by James Bay and Chance the Rapper for tour support.",
+    "allmusic_styles": [
+      "Alternative R&B",
+      "Retro-Soul",
+      "Soul"
+    ]
+  },
+  "tracks": [
+    "Chicken Wings",
+    "Chicken Wings (Remix)",
+    "Still Broke - A COLORS ENCORE",
+    "Broke"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Jacob Banks",
+    "Aaron Taylor",
+    "Surfaces",
+    "Mahalia",
+    "KAMAUU",
+    "Enny"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Chicken Wings",
+      "video_id": "CFaR4xXvP3M"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/CFaR4xXvP3M/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/samm%2bhenshaw"
+}

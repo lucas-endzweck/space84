@@ -1,0 +1,35 @@
+{
+  "artist_name": "유령서점 Ghost Bookstore",
+  "slug": "유령서점-ghost-bookstore",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Hard Rock, Heavy Metal]",
+    "active_years": "2022-12-13 - present",
+    "band_type": "group",
+    "lastfm_listeners": 3,
+    "lastfm_playcount": 14,
+    "bio": "정보를 찾을 수 없습니다.",
+    "allmusic_styles": [
+      "Hard Rock",
+      "Heavy Metal",
+      "Pop-Metal",
+      "Goth Metal",
+      "Black Metal"
+    ]
+  },
+  "tracks": [
+    "Ghost Bookstore"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "Ghost Bookstore",
+      "video_id": "r7d21coZq3w"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/r7d21coZq3w/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/%25ec%259c%25a0%25eb%25a0%25b9%25ec%2584%259c%25ec%25a0%2590%2bghost%2bbookstore"
+}

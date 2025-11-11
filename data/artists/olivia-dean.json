@@ -1,0 +1,46 @@
+{
+  "artist_name": "Olivia Dean",
+  "slug": "olivia-dean",
+  "metadata": {
+    "country": "US",
+    "genres": "[rnb, soul, indie, Adult Contemporary R&B, Adult Alternative Pop/Rock]",
+    "active_years": "1917-06-07 - 1995-12-25",
+    "band_type": "person",
+    "lastfm_listeners": 879379,
+    "lastfm_playcount": 31216429,
+    "bio": "Born and raised in Walthamstow, Olivia Dean’s career officially took flight when she uploaded demos onto Soundcloud in 2018 – eventually securing her a deal with the London-based indie label AMF. Her debut EP, OK Love You Bye, released in November, provided the perfect introduction to her talents: a raw, vintage soulful sound, with echoes of Amy Winehouse and Angie Stone, combined with lyrics that navigate the human heart with searing precision.",
+    "allmusic_styles": [
+      "Adult Contemporary R&B",
+      "Adult Alternative Pop/Rock",
+      "Alternative/Indie Rock"
+    ]
+  },
+  "tracks": [
+    "Dive",
+    "Reason To Stay"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Joy Crookes",
+    "Amber Mark",
+    "Nectar Woode",
+    "Lola Young",
+    "RAYE",
+    "HAIM"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Dive",
+      "video_id": "iQhtaaHqpSc"
+    },
+    {
+      "title": "Reason To Stay",
+      "video_id": "cOw59x2RLxU"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/iQhtaaHqpSc/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/cOw59x2RLxU/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/olivia%2bdean"
+}

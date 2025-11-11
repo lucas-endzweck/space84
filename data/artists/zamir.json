@@ -2,24 +2,21 @@
   "artist_name": "zamir",
   "slug": "zamir",
   "metadata": {
-    "country": "United States",
-    "genres": ["Alternative", "Indie", "Electronic"],
-    "active_years": "2020s - present",
+    "country": "US",
+    "genres": "[american]",
+    "active_years": "Unknown",
     "band_type": "person",
-    "lastfm_listeners": 62300,
-    "spotify_monthly_listeners": 36800
+    "lastfm_listeners": 62270,
+    "lastfm_playcount": 858093,
+    "bio": "정보를 찾을 수 없습니다."
   },
   "tracks": [
-    "on the move",
-    "bubble tea",
+    "clockwork (feat. Chevy & rosarrie)",
     "day off",
-    "clockwork",
-    "CRUSH",
-    "LOVE//SICK"
+    "lemonade",
+    "bubble tea"
   ],
-  "albums": [
-    {"title": "LOVE//SICK", "year": 2025}
-  ],
+  "albums": [],
   "similar_artists": [
     "Again&again",
     "Eli Noir",
@@ -35,10 +32,7 @@
     }
   ],
   "images": [
-    "https://i.ytimg.com/vi/uM1lKDjqTzg/maxresdefault.jpg",
-    "https://i.ytimg.com/vi/uM1lKDjqTzg/hqdefault.jpg",
-    "https://i.ytimg.com/vi/uM1lKDjqTzg/sddefault.jpg"
+    "https://i.ytimg.com/vi/uM1lKDjqTzg/maxresdefault.jpg"
   ],
-  "spotify_url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q",
   "lastfm_url": "https://www.last.fm/music/zamir"
 }

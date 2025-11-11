@@ -1,0 +1,33 @@
+{
+  "artist_name": "bwangy",
+  "slug": "bwangy",
+  "metadata": {
+    "country": "Unknown",
+    "genres": [],
+    "active_years": "Unknown",
+    "band_type": "Unknown",
+    "lastfm_listeners": 68,
+    "lastfm_playcount": 118,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Mocha"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Dreamwave",
+    "Lofi Beat Study",
+    "seekx",
+    "Lofi Tokyo"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Mocha",
+      "video_id": "FTVKA2L3vWs"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/FTVKA2L3vWs/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/bwangy"
+}

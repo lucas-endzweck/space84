@@ -1,0 +1,41 @@
+{
+  "artist_name": "i-dle (아이들)",
+  "slug": "i-dle-아이들",
+  "metadata": {
+    "country": "KR",
+    "genres": "[K-Pop, Asian Pop]",
+    "active_years": "2018-05-02 - present",
+    "band_type": "group",
+    "lastfm_listeners": 1219,
+    "lastfm_playcount": 9132,
+    "bio": "정보를 찾을 수 없습니다.",
+    "allmusic_styles": [
+      "K-Pop",
+      "Asian Pop",
+      "Dance-Pop",
+      "Pop"
+    ]
+  },
+  "tracks": [
+    "Fate (나는 아픈 건 딱 질색이니까)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "KiiiKiii (키키)",
+    "RESCENE (리센느)",
+    "IVE (아이브)",
+    "MEOVV (미야오)",
+    "민니(MINNIE)",
+    "tripleS (트리플에스)"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Fate (나는 아픈 건 딱 질색이니까)",
+      "video_id": "vBJVWOOsB4A"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/vBJVWOOsB4A/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/i-dle%2b%2528%25ec%2595%2584%25ec%259d%25b4%25eb%2593%25a4%2529"
+}

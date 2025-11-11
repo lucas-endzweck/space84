@@ -1,0 +1,41 @@
+{
+  "artist_name": "QWER",
+  "slug": "qwer",
+  "metadata": {
+    "country": "KR",
+    "genres": "[k-pop, jrock, Korean]",
+    "active_years": "2023-09-24 - present",
+    "band_type": "group",
+    "lastfm_listeners": 77503,
+    "lastfm_playcount": 3608625,
+    "bio": "QWER is a four-member girl band under 3Y Corporation and Tamago Production, which was founded by YouTuber and CEO Kim Egg as the 최애의 아이들 project. They made their debut on October 18, 2023 with the single album \"Harmony from Discord\". This was followed by the mini album  \"MANITO\" on April 1, 2024 in which their title \"T.B.H.\"  has seen popular success. The follow-up second mini album \"Algorithm's Blossom\" was announced for release on September 23, 2024.  \nThe name of the band is inspired by popular skill keys in online games, and each letter represents a member of the band (Q for Chodan, drummer; W for Magenta, bassist; E for Hina, guitar, and; R for Siyeon, vocalist), in the order of member recruitment. The name of their fandom is Bawige (바위게), the Korean name for Rift Scuttler in the popular online game League of Legends."
+  },
+  "tracks": [
+    "My Name is Malguem (내 이름 맑음)",
+    "T.B.H (고민중독)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "H1-KEY",
+    "Yena",
+    "Triple S",
+    "Fifty Fifty",
+    "CSR",
+    "GYUBIN"
+  ],
+  "youtube_videos": [
+    {
+      "title": "My Name is Malguem (내 이름 맑음)",
+      "video_id": "9yfrVqCcrS0"
+    },
+    {
+      "title": "T.B.H (고민중독)",
+      "video_id": "pbELDkeLdho"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/9yfrVqCcrS0/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/pbELDkeLdho/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/qwer"
+}

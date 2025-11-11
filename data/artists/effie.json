@@ -1,0 +1,35 @@
+{
+  "artist_name": "Effie",
+  "slug": "effie",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Korean, pop, cloud rap]",
+    "active_years": "2002-11-02 - present",
+    "band_type": "person",
+    "lastfm_listeners": 47783,
+    "lastfm_playcount": 1219282,
+    "bio": "Kim Na-hyun (Korean: 김나현; born November 2, 2002), known professionally as Effie (에피), is a South Korean rapper and musician. After she initially gained popularity on SoundCloud, she debuted in 2020 with the single Highway. She mainly performs melodic trap, cloud rap and synthpop genres. Effie's debut EP E was released on March 28, 2025 which includes her recent most popular singles down and 코카콜라 along with a track featuring Japanese artist Manaka. Her instagram account is @effi3e."
+  },
+  "tracks": [
+    "down"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Nate Sib",
+    "Starkids",
+    "2hollis",
+    "Jvcki Wai",
+    "YongYong",
+    "SEBii"
+  ],
+  "youtube_videos": [
+    {
+      "title": "down",
+      "video_id": "fmUiiZv-T7c"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/fmUiiZv-T7c/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/effie"
+}

@@ -1,0 +1,35 @@
+{
+  "artist_name": "Sunny Shin",
+  "slug": "sunny-shin",
+  "metadata": {
+    "country": "HU",
+    "genres": [],
+    "active_years": "1986-08-06 - present",
+    "band_type": "person",
+    "lastfm_listeners": 6190,
+    "lastfm_playcount": 30631,
+    "bio": "정보를 찾을 수 없습니다."
+  },
+  "tracks": [
+    "Your Sunday (Sunday Morning) (feat. ampoff)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "kudos nine",
+    "Jinnie",
+    "nalba",
+    "Bro Justin",
+    "Loφ'dog",
+    "Phatazza Cat"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Your Sunday (Sunday Morning) (feat. ampoff)",
+      "video_id": "RZ5utFeaVrY"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/RZ5utFeaVrY/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/sunny%2bshin"
+}

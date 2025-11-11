@@ -1,0 +1,41 @@
+{
+  "artist_name": "Beenzino",
+  "slug": "beenzino",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Korean, Hip-Hop, k-hiphop]",
+    "active_years": "1987-09-12 - present",
+    "band_type": "person",
+    "lastfm_listeners": 75216,
+    "lastfm_playcount": 1672181,
+    "bio": "Beenzino (Korean: 빈지노) a.k.a Isshoman, real name Lim Sungbin (임성빈), is a South Korean hip-hop musician under the label BANA (signed since 2021).  He is widely known as a signee of now-defunct label Illionaire Records (alongside Dok2 and The Quiett), of which he was signed from 2011 to the label's closing in 2020. Born on September 12, 1987, he is one of the most influential rappers in the underground scene at a young age. Emcee of Jazzyfact (prod. Shimmytwice), Hotclip (alongside Beatbox DG) & P'Skool. He is also known for lots of featurings with many big musicians, such as Dok2, Paloalto, Epik High, Dynamic Duo, Verbal Jint, Swings, The Quiett and so on."
+  },
+  "tracks": [
+    "Nike Shoes (Feat. Dynamic Duo)",
+    "[Bonus Track] Always Awake"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Jazzyfact",
+    "The Quiett",
+    "E SENS",
+    "Kid Milli",
+    "C Jamm",
+    "CHANGMO"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Nike Shoes (Feat. Dynamic Duo)",
+      "video_id": "jmD5E2lcTmE"
+    },
+    {
+      "title": "[Bonus Track] Always Awake",
+      "video_id": "iGWKNrtbF9I"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/jmD5E2lcTmE/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/iGWKNrtbF9I/hqdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/beenzino"
+}

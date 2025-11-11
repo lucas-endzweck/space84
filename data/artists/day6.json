@@ -1,0 +1,41 @@
+{
+  "artist_name": "DAY6",
+  "slug": "day6",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Korean, k-pop, k-rock, K-Pop, Asian Pop]",
+    "active_years": "2015-09 - present",
+    "band_type": "group",
+    "lastfm_listeners": 521607,
+    "lastfm_playcount": 59187430,
+    "bio": "DAY6 (Hangul: 데이식스) is a South Korean rock band, comprised of four members: Sungjin(leader, rhythm guitar, vocals),  Young K (bass, vocals, rap), Wonpil (keyboards, synthesizer, vocals), and Dowoon (drums, backing vocals).\n\nAs the name may suggest, they were originally a six member band. Junhyeok (keyboard, vocals) departed in February 2016.  Jae (lead guitar, vocals, rap; also active as eaJ) departed the group on December 31st 2021.",
+    "allmusic_styles": [
+      "K-Pop",
+      "Asian Pop",
+      "Pop",
+      "Contemporary Pop/Rock"
+    ]
+  },
+  "tracks": [
+    "예뻤어 You Were Beautiful"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "DAY6 (Even of Day)",
+    "Young K",
+    "Sungjin",
+    "eaJ",
+    "Xdinary Heroes",
+    "N.Flying"
+  ],
+  "youtube_videos": [
+    {
+      "title": "예뻤어 You Were Beautiful",
+      "video_id": "Mhyi9p7T7OM"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/Mhyi9p7T7OM/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/day6"
+}

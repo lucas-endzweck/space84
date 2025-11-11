@@ -1,0 +1,35 @@
+{
+  "artist_name": "Hash Swan",
+  "slug": "hash-swan",
+  "metadata": {
+    "country": "KR",
+    "genres": "[Korean, rap, Hip-Hop]",
+    "active_years": "1995-03-12 - present",
+    "band_type": "person",
+    "lastfm_listeners": 30195,
+    "lastfm_playcount": 476346,
+    "bio": "Han Deok-kwang (한덕광; born March 12, 1995) better known by his stage name Hash Swan (해쉬스완), is a South Korean rapper under Ambition Musik."
+  },
+  "tracks": [
+    "알렉산더처럼 왕 Wang Like Alexander (Feat. GRAY)"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "SUPERBEE",
+    "Keem Hyo-Eun",
+    "Skinny Brown",
+    "YANGHONGWON",
+    "LIL Tachi",
+    "VINXEN"
+  ],
+  "youtube_videos": [
+    {
+      "title": "알렉산더처럼 왕 Wang Like Alexander (Feat. GRAY)",
+      "video_id": "-V4K43-4KYM"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/-V4K43-4KYM/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/hash%2bswan"
+}

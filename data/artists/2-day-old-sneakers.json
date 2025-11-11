@@ -2,37 +2,27 @@
   "artist_name": "2 Day Old Sneakers",
   "slug": "2-day-old-sneakers",
   "metadata": {
-    "country": "South Korea",
-    "genres": ["Garage Rock", "Folk", "Psychedelic Rock", "Indie Rock", "K-Rock"],
-    "active_years": "2018 - present",
-    "band_type": "group",
-    "members": ["심둔 (Shim Doun)", "손민욱 (Son Min-wook)", "김가영 (Kim Ga-young)", "이지호 (Lee Ji-ho)"],
+    "country": "US",
+    "genres": "[rock, Garage Rock, indie rock]",
+    "active_years": "1922-04-03 - 2019-05-13",
+    "band_type": "person",
     "lastfm_listeners": 711,
     "lastfm_playcount": 6692,
-    "spotify_monthly_listeners": 422
+    "bio": "정보를 찾을 수 없습니다."
   },
   "tracks": [
-    "Light Shines Only There",
     "Jaguar",
-    "Penguin",
-    "City of grey",
-    "Crosswalk",
     "Cherokee",
     "Han River (한강)"
   ],
-  "albums": [
-    {"title": "Shoe Cabinet", "year": 2020},
-    {"title": "Shines Here", "year": 2021},
-    {"title": "Cherokee", "year": 2023},
-    {"title": "Penguin Syndrome!", "year": 2024},
-    {"title": "City of grey", "year": 2025}
-  ],
+  "albums": [],
   "similar_artists": [
     "OWALLOIL",
     "goosedown",
     "MGFF",
     "Adios Audio",
-    "Far East Asian Tigers"
+    "Far East Asian Tigers",
+    "The Solutions"
   ],
   "youtube_videos": [
     {
@@ -53,6 +43,5 @@
     "https://i.ytimg.com/vi/DY0BqezGJPY/hqdefault.jpg",
     "https://i.ytimg.com/vi/YtqmYuHDYqE/hqdefault.jpg"
   ],
-  "spotify_url": "https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q",
-  "lastfm_url": "https://www.last.fm/music/2+day+old+sneakers"
+  "lastfm_url": "https://www.last.fm/music/2%2bday%2bold%2bsneakers"
 }

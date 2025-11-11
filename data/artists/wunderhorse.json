@@ -1,0 +1,41 @@
+{
+  "artist_name": "Wunderhorse",
+  "slug": "wunderhorse",
+  "metadata": {
+    "country": "GB",
+    "genres": "[indie rock, alternative rock, Grunge, Alternative/Indie Rock, Indie Rock]",
+    "active_years": "2020 - present",
+    "band_type": "group",
+    "lastfm_listeners": 326819,
+    "lastfm_playcount": 11663002,
+    "bio": "Wunderhorse is an English rock band formed in 2020 by frontman and songwriter Jacob Slater.\nInitially a solo project, Wunderhorse became a full band in 2021, with Slater (vocals, guitar) being joined by Harry Fowler (guitar), Peter Woodin (bass) and Jamie Staples (drums). \nWoodin has since been replaced by Sun King singer Seb Byford, son of Saxon lead vocalist Biff Byford.\nThey have released two albums and toured internationally, supporting the likes of Pixies, Fontaines D.C. and Sam Fender.",
+    "allmusic_styles": [
+      "Alternative/Indie Rock",
+      "Indie Rock",
+      "Post-Grunge",
+      "New Wave/Post-Punk Revival"
+    ]
+  },
+  "tracks": [
+    "Leader of the Pack"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Jacob Slater",
+    "Fontaines D.C.",
+    "Sam Fender",
+    "Inhaler",
+    "Radio Free Alice",
+    "Catfish and the Bottlemen"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Leader of the Pack",
+      "video_id": "k0QbJZe_DbA"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/k0QbJZe_DbA/maxresdefault.jpg"
+  ],
+  "lastfm_url": "https://www.last.fm/music/wunderhorse"
+}
