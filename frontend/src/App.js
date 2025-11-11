@@ -16,6 +16,7 @@ import {
 import { LocalCafe, EventSeat, AccessTime, MusicNote } from '@mui/icons-material';
 import axios from 'axios';
 import ArtistFanfic from './ArtistFanfic';
+import ArtistList from './ArtistList';
 
 const theme = createTheme({
   palette: {
@@ -31,6 +32,7 @@ const theme = createTheme({
 function App() {
   const [apiInfo, setApiInfo] = useState(null);
   const [currentView, setCurrentView] = useState('home');
+  const [selectedArtist, setSelectedArtist] = useState(null);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -45,12 +47,30 @@ function App() {
     fetchData();
   }, []);
 
-  if (currentView === 'fanfic') {
+  if (currentView === 'artist-detail' && selectedArtist) {
     return (
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <ArtistFanfic
-          artistSlug="2-day-old-sneakers"
+          artistSlug={selectedArtist}
+          onBack={() => {
+            setSelectedArtist(null);
+            setCurrentView('artist-list');
+          }}
+        />
+      </ThemeProvider>
+    );
+  }
+
+  if (currentView === 'artist-list') {
+    return (
+      <ThemeProvider theme={theme}>
+        <CssBaseline />
+        <ArtistList
+          onSelectArtist={(slug) => {
+            setSelectedArtist(slug);
+            setCurrentView('artist-detail');
+          }}
           onBack={() => setCurrentView('home')}
         />
       </ThemeProvider>
@@ -153,7 +173,7 @@ function App() {
                       color: '#667eea',
                       '&:hover': { bgcolor: 'rgba(255,255,255,0.9)' }
                     }}
-                    onClick={() => setCurrentView('fanfic')}
+                    onClick={() => setCurrentView('artist-list')}
                   >
                     팬픽 보기
                   </Button>
