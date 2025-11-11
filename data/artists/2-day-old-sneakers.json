@@ -2,17 +2,30 @@
   "artist_name": "2 Day Old Sneakers",
   "slug": "2-day-old-sneakers",
   "metadata": {
-    "country": "US",
-    "genres": ["rock", "Garage Rock", "indie rock"],
-    "active_years": "1922-04-03 - 2019-05-13",
-    "band_type": "person",
+    "country": "South Korea",
+    "genres": ["Garage Rock", "Folk", "Psychedelic Rock", "Indie Rock", "K-Rock"],
+    "active_years": "2018 - present",
+    "band_type": "group",
+    "members": ["심둔 (Shim Doun)", "손민욱 (Son Min-wook)", "김가영 (Kim Ga-young)", "이지호 (Lee Ji-ho)"],
     "lastfm_listeners": 711,
-    "lastfm_playcount": 6692
+    "lastfm_playcount": 6692,
+    "spotify_monthly_listeners": 422
   },
   "tracks": [
+    "Light Shines Only There",
     "Jaguar",
+    "Penguin",
+    "City of grey",
+    "Crosswalk",
     "Cherokee",
     "Han River (한강)"
+  ],
+  "albums": [
+    {"title": "Shoe Cabinet", "year": 2020},
+    {"title": "Shines Here", "year": 2021},
+    {"title": "Cherokee", "year": 2023},
+    {"title": "Penguin Syndrome!", "year": 2024},
+    {"title": "City of grey", "year": 2025}
   ],
   "similar_artists": [
     "OWALLOIL",
@@ -21,11 +34,25 @@
     "Adios Audio",
     "Far East Asian Tigers"
   ],
-  "youtube_videos": [],
-  "images": [
-    "https://picsum.photos/seed/2dayoldsneakers1/800/600",
-    "https://picsum.photos/seed/2dayoldsneakers2/800/600",
-    "https://picsum.photos/seed/2dayoldsneakers3/800/600"
+  "youtube_videos": [
+    {
+      "title": "Jaguar",
+      "video_id": "fID12S_l6-o"
+    },
+    {
+      "title": "Cherokee",
+      "video_id": "DY0BqezGJPY"
+    },
+    {
+      "title": "Han River (한강)",
+      "video_id": "YtqmYuHDYqE"
+    }
   ],
-  "spotify_url": "https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q"
+  "images": [
+    "https://i.ytimg.com/vi/fID12S_l6-o/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/DY0BqezGJPY/hqdefault.jpg",
+    "https://i.ytimg.com/vi/YtqmYuHDYqE/hqdefault.jpg"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q",
+  "lastfm_url": "https://www.last.fm/music/2+day+old+sneakers"
 }
