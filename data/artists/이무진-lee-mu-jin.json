@@ -20,6 +20,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/이무진-lee-mu-jin-1/800/600",
+    "https://picsum.photos/seed/이무진-lee-mu-jin-2/800/600",
+    "https://picsum.photos/seed/이무진-lee-mu-jin-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%259d%25b4%25eb%25ac%25b4%25ec%25a7%2584%2blee%2bmu%2bjin"
 }

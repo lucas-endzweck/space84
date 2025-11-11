@@ -23,6 +23,10 @@
     "Funk Leblanc"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/la-felix-1/800/600",
+    "https://picsum.photos/seed/la-felix-2/800/600",
+    "https://picsum.photos/seed/la-felix-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/la%2bfelix"
 }

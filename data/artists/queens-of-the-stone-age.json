@@ -31,6 +31,10 @@
     "Royal Blood"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/queens-of-the-stone-age-1/800/600",
+    "https://picsum.photos/seed/queens-of-the-stone-age-2/800/600",
+    "https://picsum.photos/seed/queens-of-the-stone-age-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/queens%2bof%2bthe%2bstone%2bage"
 }

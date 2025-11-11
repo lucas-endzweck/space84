@@ -23,6 +23,10 @@
     "jxn"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/jordan-dennis-1/800/600",
+    "https://picsum.photos/seed/jordan-dennis-2/800/600",
+    "https://picsum.photos/seed/jordan-dennis-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/jordan%2bdennis"
 }

@@ -30,6 +30,10 @@
     "The Verve"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/oasis-1/800/600",
+    "https://picsum.photos/seed/oasis-2/800/600",
+    "https://picsum.photos/seed/oasis-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/oasis"
 }

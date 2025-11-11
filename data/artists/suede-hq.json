@@ -30,6 +30,10 @@
     "SqueezeVEVO"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/suede-hq-1/800/600",
+    "https://picsum.photos/seed/suede-hq-2/800/600",
+    "https://picsum.photos/seed/suede-hq-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/suede%2bhq"
 }

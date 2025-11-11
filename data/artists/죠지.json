@@ -23,6 +23,10 @@
     "Colde"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/죠지-1/800/600",
+    "https://picsum.photos/seed/죠지-2/800/600",
+    "https://picsum.photos/seed/죠지-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%25a3%25a0%25ec%25a7%2580"
 }

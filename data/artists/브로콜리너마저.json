@@ -23,6 +23,10 @@
     "검정치마"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/브로콜리너마저-1/800/600",
+    "https://picsum.photos/seed/브로콜리너마저-2/800/600",
+    "https://picsum.photos/seed/브로콜리너마저-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25eb%25b8%258c%25eb%25a1%259c%25ec%25bd%259c%25eb%25a6%25ac%25eb%2584%2588%25eb%25a7%2588%25ec%25a0%2580"
 }

@@ -23,6 +23,10 @@
     "유라 (youra)"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/이강승-lee-kang-seung-1/800/600",
+    "https://picsum.photos/seed/이강승-lee-kang-seung-2/800/600",
+    "https://picsum.photos/seed/이강승-lee-kang-seung-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%259d%25b4%25ea%25b0%2595%25ec%258a%25b9%2blee%2bkang%2bseung"
 }

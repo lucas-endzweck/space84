@@ -29,6 +29,10 @@
     "Hit the Lights"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/new-found-glory-1/800/600",
+    "https://picsum.photos/seed/new-found-glory-2/800/600",
+    "https://picsum.photos/seed/new-found-glory-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/new%2bfound%2bglory"
 }

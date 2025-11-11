@@ -23,6 +23,10 @@
     "Rad Museum"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/code-kunst-1/800/600",
+    "https://picsum.photos/seed/code-kunst-2/800/600",
+    "https://picsum.photos/seed/code-kunst-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/code%2bkunst"
 }

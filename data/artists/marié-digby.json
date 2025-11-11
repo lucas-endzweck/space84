@@ -27,6 +27,10 @@
     "Anna Nalick"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/marié-digby-1/800/600",
+    "https://picsum.photos/seed/marié-digby-2/800/600",
+    "https://picsum.photos/seed/marié-digby-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/mari%25c3%25a9%2bdigby"
 }

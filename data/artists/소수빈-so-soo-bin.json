@@ -20,6 +20,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/소수빈-so-soo-bin-1/800/600",
+    "https://picsum.photos/seed/소수빈-so-soo-bin-2/800/600",
+    "https://picsum.photos/seed/소수빈-so-soo-bin-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%2586%258c%25ec%2588%2598%25eb%25b9%2588%2b%252f%2bso%2bsoo%2bbin"
 }

@@ -27,6 +27,10 @@
     "ASTN"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/devin-kennedy-1/800/600",
+    "https://picsum.photos/seed/devin-kennedy-2/800/600",
+    "https://picsum.photos/seed/devin-kennedy-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/devin%2bkennedy"
 }

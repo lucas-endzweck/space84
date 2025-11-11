@@ -20,6 +20,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/전기뱀장어-electriceels-1/800/600",
+    "https://picsum.photos/seed/전기뱀장어-electriceels-2/800/600",
+    "https://picsum.photos/seed/전기뱀장어-electriceels-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%25a0%2584%25ea%25b8%25b0%25eb%25b1%2580%25ec%259e%25a5%25ec%2596%25b4%2belectriceels"
 }

@@ -18,6 +18,10 @@
     "넬 (Nell)"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/official_nell-1/800/600",
+    "https://picsum.photos/seed/official_nell-2/800/600",
+    "https://picsum.photos/seed/official_nell-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/official_nell"
 }

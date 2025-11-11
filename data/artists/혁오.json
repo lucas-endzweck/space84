@@ -21,6 +21,10 @@
     "김뜻돌"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/혁오-1/800/600",
+    "https://picsum.photos/seed/혁오-2/800/600",
+    "https://picsum.photos/seed/혁오-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ed%2598%2581%25ec%2598%25a4"
 }

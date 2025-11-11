@@ -30,6 +30,10 @@
     "KATSEYE (캣츠아이)"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/sung-holly-1/800/600",
+    "https://picsum.photos/seed/sung-holly-2/800/600",
+    "https://picsum.photos/seed/sung-holly-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/sung%2bholly"
 }

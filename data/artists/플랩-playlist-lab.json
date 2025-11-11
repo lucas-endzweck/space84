@@ -19,6 +19,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/플랩-playlist-lab-1/800/600",
+    "https://picsum.photos/seed/플랩-playlist-lab-2/800/600",
+    "https://picsum.photos/seed/플랩-playlist-lab-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ed%2594%258c%25eb%259e%25a9%2b%255bplaylist%2blab%255d"
 }

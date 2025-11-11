@@ -26,6 +26,10 @@
     "Wyolica"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/be-the-voice-1/800/600",
+    "https://picsum.photos/seed/be-the-voice-2/800/600",
+    "https://picsum.photos/seed/be-the-voice-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/be%2bthe%2bvoice"
 }

@@ -23,6 +23,10 @@
     "Choi Jungyoon"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/behindthemoon-1/800/600",
+    "https://picsum.photos/seed/behindthemoon-2/800/600",
+    "https://picsum.photos/seed/behindthemoon-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/behindthemoon"
 }

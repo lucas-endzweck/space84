@@ -13,5 +13,9 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": []
+  "images": [
+    "https://picsum.photos/seed/artists-1/800/600",
+    "https://picsum.photos/seed/artists-2/800/600",
+    "https://picsum.photos/seed/artists-3/800/600"
+  ]
 }

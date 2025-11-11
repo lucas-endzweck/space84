@@ -28,6 +28,10 @@
     "1theK (원더케이)"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/younha-official-1/800/600",
+    "https://picsum.photos/seed/younha-official-2/800/600",
+    "https://picsum.photos/seed/younha-official-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/younha%2bofficial"
 }

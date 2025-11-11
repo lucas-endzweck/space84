@@ -30,6 +30,10 @@
     "Ke$ha"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/carly-rae-jepsen-1/800/600",
+    "https://picsum.photos/seed/carly-rae-jepsen-2/800/600",
+    "https://picsum.photos/seed/carly-rae-jepsen-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/carly%2brae%2bjepsen"
 }

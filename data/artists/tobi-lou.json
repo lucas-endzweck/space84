@@ -31,6 +31,10 @@
     "GoldLink"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/tobi-lou-1/800/600",
+    "https://picsum.photos/seed/tobi-lou-2/800/600",
+    "https://picsum.photos/seed/tobi-lou-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/tobi%2blou"
 }

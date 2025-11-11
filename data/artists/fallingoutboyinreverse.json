@@ -16,6 +16,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/fallingoutboyinreverse-1/800/600",
+    "https://picsum.photos/seed/fallingoutboyinreverse-2/800/600",
+    "https://picsum.photos/seed/fallingoutboyinreverse-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/fallingoutboyinreverse"
 }

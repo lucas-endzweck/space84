@@ -23,6 +23,10 @@
     "드렁큰 타이거"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/에픽하이-1/800/600",
+    "https://picsum.photos/seed/에픽하이-2/800/600",
+    "https://picsum.photos/seed/에픽하이-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%2597%2590%25ed%2594%25bd%25ed%2595%2598%25ec%259d%25b4"
 }

@@ -30,6 +30,10 @@
     "Live"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/collective-soul-1/800/600",
+    "https://picsum.photos/seed/collective-soul-2/800/600",
+    "https://picsum.photos/seed/collective-soul-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/collective%2bsoul"
 }

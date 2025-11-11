@@ -29,6 +29,10 @@
     "EminemMusic"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/puddle-of-mudd-tv-1/800/600",
+    "https://picsum.photos/seed/puddle-of-mudd-tv-2/800/600",
+    "https://picsum.photos/seed/puddle-of-mudd-tv-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/puddle%2bof%2bmudd%2btv"
 }

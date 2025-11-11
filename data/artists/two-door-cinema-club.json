@@ -28,6 +28,10 @@
     "Last Dinosaurs"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/two-door-cinema-club-1/800/600",
+    "https://picsum.photos/seed/two-door-cinema-club-2/800/600",
+    "https://picsum.photos/seed/two-door-cinema-club-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/two%2bdoor%2bcinema%2bclub"
 }

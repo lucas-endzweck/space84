@@ -29,6 +29,10 @@
     "Christina Aguilera"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/kelly-clarkson-1/800/600",
+    "https://picsum.photos/seed/kelly-clarkson-2/800/600",
+    "https://picsum.photos/seed/kelly-clarkson-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/kelly%2bclarkson"
 }

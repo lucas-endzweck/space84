@@ -23,6 +23,10 @@
     "브로콜리 너마저"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/rollercoaster-1/800/600",
+    "https://picsum.photos/seed/rollercoaster-2/800/600",
+    "https://picsum.photos/seed/rollercoaster-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/rollercoaster"
 }

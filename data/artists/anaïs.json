@@ -28,6 +28,10 @@
     "Alexis HK"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/anaïs-1/800/600",
+    "https://picsum.photos/seed/anaïs-2/800/600",
+    "https://picsum.photos/seed/anaïs-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/ana%25c3%25afs"
 }

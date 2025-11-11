@@ -23,6 +23,10 @@
     "Podzimní Sběr"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/eighty-three-1/800/600",
+    "https://picsum.photos/seed/eighty-three-2/800/600",
+    "https://picsum.photos/seed/eighty-three-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/eighty%2bthree"
 }

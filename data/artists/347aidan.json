@@ -29,6 +29,10 @@
     "guccihighwaters"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/347aidan-1/800/600",
+    "https://picsum.photos/seed/347aidan-2/800/600",
+    "https://picsum.photos/seed/347aidan-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/347aidan"
 }

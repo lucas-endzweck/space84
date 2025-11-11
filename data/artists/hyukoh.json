@@ -30,6 +30,10 @@
     "jisokuryClub"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/hyukoh-1/800/600",
+    "https://picsum.photos/seed/hyukoh-2/800/600",
+    "https://picsum.photos/seed/hyukoh-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/hyukoh"
 }

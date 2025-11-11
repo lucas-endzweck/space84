@@ -24,6 +24,10 @@
     "codyates2181"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/정아로-aro-1/800/600",
+    "https://picsum.photos/seed/정아로-aro-2/800/600",
+    "https://picsum.photos/seed/정아로-aro-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%25a0%2595%25ec%2595%2584%25eb%25a1%259c%2b%252f%2baro"
 }

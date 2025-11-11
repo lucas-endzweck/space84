@@ -26,6 +26,10 @@
     "Kim Seungmin"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/1day-1/800/600",
+    "https://picsum.photos/seed/1day-2/800/600",
+    "https://picsum.photos/seed/1day-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/1day"
 }

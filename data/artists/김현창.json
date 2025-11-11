@@ -23,6 +23,10 @@
     "알레프"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/김현창-1/800/600",
+    "https://picsum.photos/seed/김현창-2/800/600",
+    "https://picsum.photos/seed/김현창-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ea%25b9%2580%25ed%2598%2584%25ec%25b0%25bd"
 }

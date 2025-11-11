@@ -32,6 +32,10 @@
     "Me First and the Gimme Gimmes"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/nofx-1/800/600",
+    "https://picsum.photos/seed/nofx-2/800/600",
+    "https://picsum.photos/seed/nofx-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/nofx"
 }

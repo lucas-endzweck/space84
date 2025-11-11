@@ -30,6 +30,10 @@
     "Limp Bizkit"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/rage-against-the-machine-1/800/600",
+    "https://picsum.photos/seed/rage-against-the-machine-2/800/600",
+    "https://picsum.photos/seed/rage-against-the-machine-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/rage%2bagainst%2bthe%2bmachine"
 }

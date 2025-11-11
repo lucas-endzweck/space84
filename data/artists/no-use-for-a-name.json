@@ -32,6 +32,10 @@
     "Millencolin"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/no-use-for-a-name-1/800/600",
+    "https://picsum.photos/seed/no-use-for-a-name-2/800/600",
+    "https://picsum.photos/seed/no-use-for-a-name-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/no%2buse%2bfor%2ba%2bname"
 }

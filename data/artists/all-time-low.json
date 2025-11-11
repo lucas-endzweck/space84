@@ -28,6 +28,10 @@
     "With Confidence"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/all-time-low-1/800/600",
+    "https://picsum.photos/seed/all-time-low-2/800/600",
+    "https://picsum.photos/seed/all-time-low-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/all%2btime%2blow"
 }

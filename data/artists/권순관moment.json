@@ -20,6 +20,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/권순관moment-1/800/600",
+    "https://picsum.photos/seed/권순관moment-2/800/600",
+    "https://picsum.photos/seed/권순관moment-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ea%25b6%258c%25ec%2588%259c%25ea%25b4%2580%255bmoment%255d"
 }

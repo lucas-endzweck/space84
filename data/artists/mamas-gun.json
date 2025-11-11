@@ -28,6 +28,10 @@
     "Incognito"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/mamas-gun-1/800/600",
+    "https://picsum.photos/seed/mamas-gun-2/800/600",
+    "https://picsum.photos/seed/mamas-gun-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/mamas%2bgun"
 }

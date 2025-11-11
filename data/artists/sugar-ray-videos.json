@@ -31,6 +31,10 @@
     "NoDoubtTV"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/sugar-ray-videos-1/800/600",
+    "https://picsum.photos/seed/sugar-ray-videos-2/800/600",
+    "https://picsum.photos/seed/sugar-ray-videos-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/sugar%2bray%2bvideos"
 }

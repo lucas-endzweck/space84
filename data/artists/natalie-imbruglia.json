@@ -28,6 +28,10 @@
     "Tina Arena"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/natalie-imbruglia-1/800/600",
+    "https://picsum.photos/seed/natalie-imbruglia-2/800/600",
+    "https://picsum.photos/seed/natalie-imbruglia-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/natalie%2bimbruglia"
 }

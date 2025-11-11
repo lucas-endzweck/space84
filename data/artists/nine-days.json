@@ -29,6 +29,10 @@
     "EVE 6"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/nine-days-1/800/600",
+    "https://picsum.photos/seed/nine-days-2/800/600",
+    "https://picsum.photos/seed/nine-days-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/nine%2bdays"
 }

@@ -28,6 +28,10 @@
     "Zach Hood"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/christian-french-1/800/600",
+    "https://picsum.photos/seed/christian-french-2/800/600",
+    "https://picsum.photos/seed/christian-french-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/christian%2bfrench"
 }

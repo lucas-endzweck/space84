@@ -28,6 +28,10 @@
     "Gin Wigmore"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/alexander-jean-1/800/600",
+    "https://picsum.photos/seed/alexander-jean-2/800/600",
+    "https://picsum.photos/seed/alexander-jean-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/alexander%2bjean"
 }

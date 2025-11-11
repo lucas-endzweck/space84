@@ -32,6 +32,10 @@
     "Brik"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/snot-1/800/600",
+    "https://picsum.photos/seed/snot-2/800/600",
+    "https://picsum.photos/seed/snot-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/snot"
 }

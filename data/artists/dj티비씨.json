@@ -30,6 +30,10 @@
     "JTBC Entertainment"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/dj티비씨-1/800/600",
+    "https://picsum.photos/seed/dj티비씨-2/800/600",
+    "https://picsum.photos/seed/dj티비씨-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/dj%25ed%258b%25b0%25eb%25b9%2584%25ec%2594%25a8"
 }

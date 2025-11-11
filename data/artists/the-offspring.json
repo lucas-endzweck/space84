@@ -30,6 +30,10 @@
     "Zebrahead"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/the-offspring-1/800/600",
+    "https://picsum.photos/seed/the-offspring-2/800/600",
+    "https://picsum.photos/seed/the-offspring-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/the%2boffspring"
 }

@@ -23,6 +23,10 @@
     "FIFTY FIFTY (피프티피프티)"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/dynamicduo-다이나믹-듀오-1/800/600",
+    "https://picsum.photos/seed/dynamicduo-다이나믹-듀오-2/800/600",
+    "https://picsum.photos/seed/dynamicduo-다이나믹-듀오-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/dynamicduo%2b-%2b%25eb%258b%25a4%25ec%259d%25b4%25eb%2582%2598%25eb%25af%25b9%2b%25eb%2593%2580%25ec%2598%25a4"
 }

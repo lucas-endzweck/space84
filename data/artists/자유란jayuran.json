@@ -16,6 +16,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/자유란jayuran-1/800/600",
+    "https://picsum.photos/seed/자유란jayuran-2/800/600",
+    "https://picsum.photos/seed/자유란jayuran-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/%25ec%259e%2590%25ec%259c%25a0%25eb%259e%2580jayuran"
 }

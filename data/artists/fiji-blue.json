@@ -28,6 +28,10 @@
     "brb."
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/fiji-blue-1/800/600",
+    "https://picsum.photos/seed/fiji-blue-2/800/600",
+    "https://picsum.photos/seed/fiji-blue-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/fiji%2bblue"
 }

@@ -20,6 +20,10 @@
   "albums": [],
   "similar_artists": [],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/bosudong-cooler-보수동쿨러-1/800/600",
+    "https://picsum.photos/seed/bosudong-cooler-보수동쿨러-2/800/600",
+    "https://picsum.photos/seed/bosudong-cooler-보수동쿨러-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/bosudong%2bcooler%2b%257c%2b%25eb%25b3%25b4%25ec%2588%2598%25eb%258f%2599%25ec%25bf%25a8%25eb%259f%25ac"
 }

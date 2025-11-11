@@ -23,6 +23,10 @@
     "Wendy & Seulgi"
   ],
   "youtube_videos": [],
-  "images": [],
+  "images": [
+    "https://picsum.photos/seed/yoonmirae-1/800/600",
+    "https://picsum.photos/seed/yoonmirae-2/800/600",
+    "https://picsum.photos/seed/yoonmirae-3/800/600"
+  ],
   "lastfm_url": "https://www.last.fm/music/yoonmirae"
 }
