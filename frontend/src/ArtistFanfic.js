@@ -211,7 +211,7 @@ function ArtistFanfic({ artistSlug, onBack }) {
                         }}
                       >
                         <iframe
-                          src={`https://www.youtube.com/embed/${getYoutubeVideoId(video.search_query)}`}
+                          src={`https://www.youtube.com/embed/${video.video_id || 'dQw4w9WgXcQ'}`}
                           title={video.title}
                           frameBorder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -246,26 +246,6 @@ function ArtistFanfic({ artistSlug, onBack }) {
       </Container>
     </Box>
   );
-}
-
-// 유튜브 검색 쿼리에서 비디오 ID 추출하는 헬퍼 함수
-function getYoutubeVideoId(searchQuery) {
-  // 실제로는 YouTube Data API를 사용해야 하지만,
-  // 여기서는 간단하게 처리하기 위해 일반적인 검색 결과를 사용
-  // 2 Day Old Sneakers의 곡들에 대한 하드코딩된 비디오 ID
-  const videoMap = {
-    'Jaguar': 'dQw4w9WgXcQ',  // 실제 비디오 ID로 교체 필요
-    'Cherokee': 'dQw4w9WgXcQ',
-    'Han+River+(한강)': 'dQw4w9WgXcQ'
-  };
-
-  // search_query에서 곡 이름 추출
-  const trackMatch = searchQuery.match(/2\+Day\+Old\+Sneakers\+(.*)/);
-  if (trackMatch) {
-    return videoMap[trackMatch[1]] || 'dQw4w9WgXcQ';
-  }
-
-  return 'dQw4w9WgXcQ';  // 기본값
 }
 
 export default ArtistFanfic;

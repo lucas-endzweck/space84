@@ -1,0 +1,43 @@
+{
+  "artist_name": "2 Day Old Sneakers",
+  "slug": "2-day-old-sneakers",
+  "metadata": {
+    "country": "US",
+    "genres": ["rock", "Garage Rock", "indie rock"],
+    "active_years": "1922-04-03 - 2019-05-13",
+    "band_type": "person",
+    "lastfm_listeners": 711,
+    "lastfm_playcount": 6692
+  },
+  "tracks": [
+    "Jaguar",
+    "Cherokee",
+    "Han River (한강)"
+  ],
+  "similar_artists": [
+    "OWALLOIL",
+    "goosedown",
+    "MGFF",
+    "Adios Audio",
+    "Far East Asian Tigers"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Jaguar",
+      "video_id": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "Cherokee",
+      "video_id": "dQw4w9WgXcQ"
+    },
+    {
+      "title": "Han River (한강)",
+      "video_id": "dQw4w9WgXcQ"
+    }
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,concert,rock",
+    "https://source.unsplash.com/800x600/?musician,band,performance",
+    "https://source.unsplash.com/800x600/?music,festival,stage"
+  ]
+}
