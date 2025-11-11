@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import {
   Container,
   Typography,
@@ -23,7 +23,7 @@ function ArtistFanfic({ artistSlug, onBack }) {
   const [fanfic, setFanfic] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  const fetchFanfic = async () => {
+  const fetchFanfic = useCallback(async () => {
     setLoading(true);
     try {
       const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:8001';
@@ -34,11 +34,11 @@ function ArtistFanfic({ artistSlug, onBack }) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [artistSlug]);
 
   useEffect(() => {
     fetchFanfic();
-  }, [artistSlug]);
+  }, [fetchFanfic]);
 
   if (loading) {
     return (
