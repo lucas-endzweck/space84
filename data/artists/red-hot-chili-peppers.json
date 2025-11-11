@@ -1,0 +1,54 @@
+{
+  "artist_name": "Red Hot Chili Peppers",
+  "slug": "red-hot-chili-peppers",
+  "metadata": {
+    "country": "United States",
+    "origin": "Los Angeles, California",
+    "genres": ["Rock", "Alternative Rock", "Funk Rock", "Punk Rock", "Psychedelic Rock"],
+    "active_years": "1982 - present",
+    "band_type": "group",
+    "members": ["Anthony Kiedis (vocals)", "Flea (bass)", "John Frusciante (guitar)", "Chad Smith (drums)"],
+    "lastfm_listeners": 7000000,
+    "lastfm_playcount": 536300000,
+    "records_sold": "120 million+"
+  },
+  "tracks": [
+    "Can't Stop",
+    "Scar Tissue",
+    "Californication",
+    "By the Way",
+    "Aquatic Mouth Dance"
+  ],
+  "albums": [
+    {"title": "Stadium Arcadium", "year": 2006},
+    {"title": "Californication", "year": 1999},
+    {"title": "By the Way", "year": 2002},
+    {"title": "Unlimited Love", "year": 2022}
+  ],
+  "similar_artists": [
+    "John Frusciante",
+    "Foo Fighters",
+    "Audioslave"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Can't Stop",
+      "video_id": "D4INE2zO9OU"
+    },
+    {
+      "title": "By the Way",
+      "video_id": "O-A7It0bZ2w"
+    },
+    {
+      "title": "Aquatic Mouth Dance",
+      "video_id": "n02SbZGaTUg"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/D4INE2zO9OU/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/O-A7It0bZ2w/hqdefault.jpg",
+    "https://i.ytimg.com/vi/n02SbZGaTUg/hqdefault.jpg"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
+  "lastfm_url": "https://www.last.fm/music/Red+Hot+Chili+Peppers"
+}

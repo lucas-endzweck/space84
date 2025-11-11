@@ -1,0 +1,44 @@
+{
+  "artist_name": "Pomplamoose",
+  "slug": "pomplamoose",
+  "metadata": {
+    "country": "United States",
+    "origin": "Corte Madera, Marin County, California",
+    "genres": ["Indie", "Indie Pop", "Soul", "Singer-Songwriter"],
+    "active_years": "2008 - present",
+    "band_type": "duo",
+    "members": ["Jack Conte", "Nataly Dawn"],
+    "lastfm_listeners": 547000,
+    "description": "Pioneered videosongs on YouTube, named after French word pamplemousse (grapefruit)"
+  },
+  "tracks": [
+    "Bust Your Knee Caps - Johnny Don't Leave Me",
+    "Bust Your Kneecaps",
+    "Les Champs-Élysées",
+    "Jamirobeegees Mashup: Stayin' Alive / Virtual Insanity",
+    "Sous Le Ciel De Paris",
+    "Instant Crush"
+  ],
+  "albums": [],
+  "similar_artists": [
+    "Nataly Dawn",
+    "Elise Trouw",
+    "Lake Street Dive",
+    "Theo Katzman",
+    "dodie",
+    "Tessa Violet"
+  ],
+  "youtube_videos": [
+    {
+      "title": "Instant Crush",
+      "video_id": "TY7D3iHrBdU"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/TY7D3iHrBdU/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/TY7D3iHrBdU/hqdefault.jpg",
+    "https://i.ytimg.com/vi/TY7D3iHrBdU/sddefault.jpg"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c",
+  "lastfm_url": "https://www.last.fm/music/Pomplamoose"
+}

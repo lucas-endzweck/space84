@@ -1,0 +1,47 @@
+{
+  "artist_name": "한로로 HANRORO",
+  "slug": "hanroro",
+  "metadata": {
+    "country": "South Korea",
+    "genres": ["K-Pop", "K-Indie", "Korean"],
+    "active_years": "2020s - present",
+    "band_type": "person",
+    "lastfm_listeners": 27,
+    "spotify_monthly_listeners": 265700
+  },
+  "tracks": [
+    "사랑하게 될 거야",
+    "자처 (Even if you leave,)",
+    "금붕어",
+    "입춘 (Let Me Love My Youth)",
+    "물수제비 (Skipping Stones)",
+    "거울 (MIRROR)"
+  ],
+  "albums": [],
+  "similar_artists": [],
+  "youtube_videos": [
+    {
+      "title": "사랑하게 될 거야",
+      "video_id": "Snyan1_jGWc"
+    },
+    {
+      "title": "자처",
+      "video_id": "QRwfXQ7-OR4"
+    },
+    {
+      "title": "금붕어",
+      "video_id": "x3LMXUzDhXg"
+    },
+    {
+      "title": "입춘",
+      "video_id": "I0Hu7PRF4j0"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/Snyan1_jGWc/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/QRwfXQ7-OR4/hqdefault.jpg",
+    "https://i.ytimg.com/vi/x3LMXUzDhXg/hqdefault.jpg"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx",
+  "lastfm_url": "https://www.last.fm/music/HANRORO"
+}

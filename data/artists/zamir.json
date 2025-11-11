@@ -1,0 +1,44 @@
+{
+  "artist_name": "zamir",
+  "slug": "zamir",
+  "metadata": {
+    "country": "United States",
+    "genres": ["Alternative", "Indie", "Electronic"],
+    "active_years": "2020s - present",
+    "band_type": "person",
+    "lastfm_listeners": 62300,
+    "spotify_monthly_listeners": 36800
+  },
+  "tracks": [
+    "on the move",
+    "bubble tea",
+    "day off",
+    "clockwork",
+    "CRUSH",
+    "LOVE//SICK"
+  ],
+  "albums": [
+    {"title": "LOVE//SICK", "year": 2025}
+  ],
+  "similar_artists": [
+    "Again&again",
+    "Eli Noir",
+    "Ryce",
+    "Atwood",
+    "galdive",
+    "marc indigo"
+  ],
+  "youtube_videos": [
+    {
+      "title": "clockwork (feat. Chevy & rosarrie)",
+      "video_id": "uM1lKDjqTzg"
+    }
+  ],
+  "images": [
+    "https://i.ytimg.com/vi/uM1lKDjqTzg/maxresdefault.jpg",
+    "https://i.ytimg.com/vi/uM1lKDjqTzg/hqdefault.jpg",
+    "https://i.ytimg.com/vi/uM1lKDjqTzg/sddefault.jpg"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q",
+  "lastfm_url": "https://www.last.fm/music/zamir"
+}
