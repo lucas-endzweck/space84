@@ -183,6 +183,39 @@ function ArtistFanfic({ artistSlug, onBack }) {
           </Card>
         )}
 
+        {/* Spotify 플레이어 */}
+        {fanfic.spotify_url && (
+          <Card elevation={3} sx={{ mb: 3 }}>
+            <CardContent>
+              <Box sx={{ display: 'flex', alignItems: 'center', mb: 3 }}>
+                <MusicNote sx={{ mr: 1, color: 'success.main' }} />
+                <Typography variant="h6">
+                  🎵 Spotify에서 듣기
+                </Typography>
+              </Box>
+              <Box
+                sx={{
+                  borderRadius: 2,
+                  overflow: 'hidden',
+                  height: '380px'
+                }}
+              >
+                <iframe
+                  src={`https://open.spotify.com/embed/artist/${fanfic.spotify_url.split('/artist/')[1]}`}
+                  width="100%"
+                  height="380"
+                  frameBorder="0"
+                  allowFullScreen=""
+                  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                  loading="lazy"
+                  title="Spotify Player"
+                  style={{ borderRadius: '12px' }}
+                />
+              </Box>
+            </CardContent>
+          </Card>
+        )}
+
         {/* 유튜브 비디오 */}
         {fanfic.youtube_videos && fanfic.youtube_videos.length > 0 && (
           <Card elevation={3} sx={{ mb: 3 }}>
@@ -211,7 +244,7 @@ function ArtistFanfic({ artistSlug, onBack }) {
                         }}
                       >
                         <iframe
-                          src={`https://www.youtube.com/embed/${video.video_id || 'dQw4w9WgXcQ'}`}
+                          src={`https://www.youtube.com/embed/${video.video_id}`}
                           title={video.title}
                           frameBorder="0"
                           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

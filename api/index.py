@@ -38,6 +38,7 @@ def generate_fanfic(artist_data):
     similar_artists = artist_data.get('similar_artists', [])
     youtube_videos = artist_data.get('youtube_videos', [])
     images = artist_data.get('images', [])
+    spotify_url = artist_data.get('spotify_url', None)
 
     genres = metadata.get('genres', [])
     country = metadata.get('country', 'Unknown')
@@ -114,7 +115,7 @@ def generate_fanfic(artist_data):
     # 랜덤하게 팬픽 선택
     selected_fanfic = random.choice(fanfic_templates)
 
-    return {
+    response = {
         "artist_name": artist_name,
         "title": selected_fanfic["title"],
         "story": selected_fanfic["story"],
@@ -128,6 +129,11 @@ def generate_fanfic(artist_data):
         "youtube_videos": youtube_videos,
         "images": images
     }
+
+    if spotify_url:
+        response["spotify_url"] = spotify_url
+
+    return response
 
 @app.get("/")
 async def root():

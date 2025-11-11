@@ -21,23 +21,11 @@
     "Adios Audio",
     "Far East Asian Tigers"
   ],
-  "youtube_videos": [
-    {
-      "title": "Jaguar",
-      "video_id": "dQw4w9WgXcQ"
-    },
-    {
-      "title": "Cherokee",
-      "video_id": "dQw4w9WgXcQ"
-    },
-    {
-      "title": "Han River (한강)",
-      "video_id": "dQw4w9WgXcQ"
-    }
-  ],
+  "youtube_videos": [],
   "images": [
-    "https://source.unsplash.com/800x600/?music,concert,rock",
-    "https://source.unsplash.com/800x600/?musician,band,performance",
-    "https://source.unsplash.com/800x600/?music,festival,stage"
-  ]
+    "https://picsum.photos/seed/2dayoldsneakers1/800/600",
+    "https://picsum.photos/seed/2dayoldsneakers2/800/600",
+    "https://picsum.photos/seed/2dayoldsneakers3/800/600"
+  ],
+  "spotify_url": "https://open.spotify.com/artist/5UEtEaPNFbiU8KGganPF4Q"
 }
